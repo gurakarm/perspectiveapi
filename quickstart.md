@@ -73,4 +73,4 @@ interesting.
 
 Also, subscribe to our
 [perspectiveapi-announce@ Google Group](https://groups.google.com/forum/#!forum/perspective-announce/join) to
-get notified when we make changes to the API.
+get notified when we make changes to the API. For more support and to contact us, see: https://support.perspectiveapi.com/s/. 
